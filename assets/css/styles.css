@@ -1,0 +1,18 @@
+div.jumbotron.hero-nature {
+  background-image: url('../../assets/img/slider_1.jpg');
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../../assets/img/slider.png');
+  background-position: center;
+  /*background-attachment: fixed;*/
+  /*background-size: contain;*/
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../../assets/img/slider_3.jpg');
+}
+
+.button-right {
+}
+
