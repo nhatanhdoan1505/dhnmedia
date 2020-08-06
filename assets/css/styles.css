@@ -1,5 +1,5 @@
 div.jumbotron.hero-nature {
-  background-image: url('../../assets/img/slider_1.jpg');
+  background-image: url('../../assets/img/slider_2.jpg');
 }
 
 div.jumbotron.hero-photography {
@@ -10,7 +10,7 @@ div.jumbotron.hero-photography {
 }
 
 div.jumbotron.hero-technology {
-  background-image: url('../../assets/img/slider_3.jpg');
+  background-image: url('../../assets/img/slider.png');
 }
 
 .button-right {
